@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=P1 Old Footprint=Header_Duc Cong_2P 2.54 New Footprint=Header Duc Thang 2P 2.54
+Change Component Comment : Designator=P1 Old Comment=NGU?N 9V New Comment=2.54-2p
+Change component parameters: Designator = "P1"; Footprint = "Header Duc Thang 2P 2.54"; UniqueID = "\KXHOANEA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001283"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DOG Member=Component VIT1 1
+Added Member To Class: ClassName=DOG Member=Component VIT2 1
+Added Member To Class: ClassName=DOG Member=Component VIT3 1
+Added Member To Class: ClassName=DOG Member=Component VIT4 1
